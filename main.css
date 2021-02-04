@@ -1,0 +1,27 @@
+body{
+    background:rgb(255, 0, 179) ;
+}
+
+.knapp {
+    position: fixed;
+    height: 200px;
+    width: 800px;
+    border-radius:50px ;
+    right: 0;
+    left: 0;
+    top: 20;
+    font-size: 150px;
+    background-color: darkorchid;
+}
+
+
+p{
+    font-size: 100px;
+    text-align: center;
+    top: 50;
+    right: 0;
+    left: 0;
+    position: absolute;
+}
+
+
